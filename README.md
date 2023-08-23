@@ -6,7 +6,7 @@ I am passionate, dependable and adaptable Data Analyst, leveraging over 5 years 
 - Bachelors of Commerce (2009) Utkal University, Bhubaneswar, India
 
 ## Technical Skills
-Data Analysis | Data Visualization | Business Process Management | Team Handling | Power-BI | SQL | Tableau | Alteryx | Azure | Python | SAS | Data Modelling | DAX
+Data Analysis | Data Visualization | Power-BI | Team Handling | UX Design | SQL | Tableau | Alteryx | Azure | Python | SAS | Data Modelling | DAX
 
 ## Work Experience
 
