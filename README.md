@@ -81,24 +81,36 @@ Below are some of the factors how we utilized the applications:
 ### Certifications
 
 Google Data Analytics Professional Certificate
-01/2022
+- Coursera • 01/2022
+
 Data Analytics For Decision Making
-Bond University •08/2020
+- Bond University • 08/2020
+
 Microsoft Certified: Azure Data Fundamentals
-08/2022
-The Fundamentals of Digital Marketing
-07/2020
+- Microsoft • 08/2022
+
 Google Project Management Professional Certificate
-02/2022
+- Coursera • 02/2022
+
 Six Sigma: Black Belt
-LinkedIn•06/2023
+- LinkedIn • 06/2023
+
 Microsoft Certified: Power BI Data Analyst Associate
-12/2021
+- Microsoft • 12/2021
+
 Data Analyst Certification
-ExcelR •03/2023
+- ExcelR • 03/2023
+
 Cert Prep: Certified Analytics Professional (CAP)
-LinkedIn•06/2023
+- LinkedIn • 06/2023
+
 MS SQL Developer
-Intelipaat •08/2022
+- Intelipaat •08/2022
+
+IBM Data Visualization Certificate
+- IBM Skills Network • 06/2023
+
+Certified Analytics Professional
+- LinkedIn • 06/2023
 
 
