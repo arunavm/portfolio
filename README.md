@@ -1,4 +1,4 @@
-# Data Analyst
+# My Portfolio As a Data Analyst
 I am passionate and adaptable Data Analyst, leveraging over 5 years of corporate expertise in spearheading Advanced Analytics and Business Intelligence initiatives across diverse industries including Retail, BFSI, Pharmaceuticals, and Healthcare.
 
 ### Education
