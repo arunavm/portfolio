@@ -6,7 +6,7 @@ I am passionate and adaptable Data Analyst, leveraging over 5 years of corporate
 - Bachelors of Commerce (2009) Utkal University, Bhubaneswar, India
 
 ### Technical Skills
-Data Analysis | Data Visualization | Business Process Management | Team Handling | Power-BI | SQL | Tableau | Alteryx | Azure | Python | ETL | Data Modelling | DAX
+Data Analysis | Data Visualization | Business Process Management | Team Handling | Power-BI | SQL | Tableau | Alteryx | Azure | Python | SAS | Data Modelling | DAX
 
 ### Work Experience
 
@@ -48,7 +48,8 @@ MISBOI CONSULTING SERVICES | Data Specialist Intern | Remote | 2021
 -> Customer Segmentation Analysis
 Link-https://www.novypro.com/profile_about/arunav
 Duration: Jan 2022 - Mar 2022
-Objective: To segment customers based on their purchasing behavior and demographics to target marketing campaigns more effectively. 
+
+Objective: To segment customers based on their purchasing behavior & demographics to target marketing campaigns more effectively. 
 Application based utilization : 
 - Excel: Used for data cleaning, data exploration, and basic analysis. 
 - Power BI: Created visualizations and interactive dashboards to visualize customer segments. 
@@ -58,7 +59,8 @@ Application based utilization :
 -> Fraud Detection in Financial Transactions
 Link-https://www.novypro.com/profile_about/arunav
 Duration: Mar 2022 - Jun 2022
-Objective: To detect fraudulent transactions and implement measures to prevent financial losses. 
+
+Objective: To detect fraudulent transactions & implement measures to prevent financial losses. 
 - Excel: Analyzed transaction data and identified patterns and anomalies. 
 - Power BI: Visualized transaction patterns and created dashboards to monitor fraud alerts. 
 - SQL: Extracted and transformed transaction data from a database. 
@@ -68,7 +70,8 @@ Objective: To detect fraudulent transactions and implement measures to prevent f
 -> Social Media Sentiment Analysis
 Link - https://www.novypro.com/profile_about/arunav
 Duration: Jun 2022 - Aug 2022
-Objective : To analyze sentiment patterns on social media platforms to understand customer opinions and improve brand reputation. 
+
+Objective : To analyze sentiment patterns on social media platforms to understand customer opinions & improve brand reputation. 
 Below are some of the factors how we utilized the applications: 
 - Excel: Pre-processed and cleaned raw social media data. 
 - Power BI: Created visualizations to analyze sentiment trends and identify influential topics. 
